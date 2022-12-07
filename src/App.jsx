@@ -11,7 +11,7 @@ import {
   Clients,
   CTA,
   Footer
-} from './components'
+} from './components';
 
 const App = () =>  (
     <div className='bg-primary w-full overflow-hidden'>
