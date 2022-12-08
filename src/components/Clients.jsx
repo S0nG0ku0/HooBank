@@ -1,8 +1,12 @@
-import React from 'react'
+import { quotes } from '../assets';
+import { feedback } from '../constants';
+import styles, { layout } from '../style';
 
 const Clients = () => {
   return (
-    <div>Clients</div>
+    <section className={layout.section}>
+      
+    </section>
   )
 }
 
