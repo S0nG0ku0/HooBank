@@ -1,8 +1,6 @@
-:warning: **NOT COMLECTED YET**!
-
 # HooBank
 <div align="center">
-      <img src='/src/assets/logo.svg' alt='logo' width='100%'/>
+      <img src='/src/assets/logo.svg' alt='logo' width='100%' style="backgroud-color:black"/>
 </div>
 
 ## Get Started
