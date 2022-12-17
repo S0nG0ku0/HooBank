@@ -51,3 +51,7 @@ $ npm run build
 ## TRY IT
 
 https://hoobank-pied.vercel.app/
+
+## UI DESIGN IN FIGMA
+
+https://shorturl.at/pDKN4
